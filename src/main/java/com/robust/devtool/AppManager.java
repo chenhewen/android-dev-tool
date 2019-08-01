@@ -1,3 +1,5 @@
+package com.robust.devtool;
+
 import java.io.IOException;
 
 public class AppManager {

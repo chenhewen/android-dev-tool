@@ -1,9 +1,9 @@
+package com.robust.devtool;
+
 import org.junit.Before;
 import org.junit.Test;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 
 public class TestAdbShell {
 
