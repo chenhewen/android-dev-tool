@@ -1,4 +1,4 @@
-package com.robust.devtool.ui;
+package com.robust.devtool.ui.controller;
 
 import com.robust.devtool.AppManager;
 
@@ -14,9 +14,10 @@ import javafx.scene.control.TextField;
 import javafx.stage.DirectoryChooser;
 import javafx.stage.Stage;
 
-public class Controller implements Initializable {
+public class ApkController implements Initializable {
 
-    AppManager appManager;
+
+    private AppManager appManager;
 
     @Override
     public void initialize(URL location, ResourceBundle resources) {
